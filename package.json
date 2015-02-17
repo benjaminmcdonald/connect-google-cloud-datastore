@@ -1,0 +1,23 @@
+{
+  "name": "connect-google-cloud-datastore",
+  "description": "Google Cloud Datastore session store for Connect",
+  "author": "Nik Sumeiko <nik.sumeiko@gmail.com>",
+  "version": "1.0.0",
+  "homepage": "https://github.com/manakor/connect-google-cloud-datastore",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manakor/connect-google-cloud-datastore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manakor/connect-google-cloud-datastore/issues"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "errno-codes": "^1.0.2",
+    "gcloud": "^0.12.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
